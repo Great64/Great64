@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Philip</h1>
 <h3 align="center">A high-school student learning to code</h3>
-img align="right" alt="Coding" width="400" src="https://media.npr.org/assets/img/2013/12/10/istock-18586699-monkey-computer_wide-b549011bc9eacc7431d89ca042874c1e9950c1ac-s1400-c100.jpg"
+img align="right" alt="Coding" width="400" src="http://www.todayifoundout.com/wp-content/uploads/2015/11/chimp-on-a-laptop.png"
 
 - 🌱 I’m currently learning **more java and c++**
 

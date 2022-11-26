@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **more java and c++**
 
+- 🔭 I’m currently working on **making a home server**
+
 - 💬 Ask me about **java + python**
 
 - 📫 How to reach me **philipozog@gmail.com**

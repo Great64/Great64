@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Philip</h1>
 <h3 align="center">A university student developing my coding skills</h3>
 
-- 🌱 I’m currently working with **java and python*
+- 🌱 I’m currently working with **java and python**
 
 - 🔭 I’m currently working on **creating a visual novel**
 

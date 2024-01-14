@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Philip</h1>
-<h3 align="center">A high-school student learning to code</h3>
+<h3 align="center">A university student developing my coding skills</h3>
 
-- 🌱 I’m currently learning **more java and c++**
+- 🌱 I’m currently working with **java and python*
 
-- 🔭 I’m currently working on **making a home server**
+- 🔭 I’m currently working on **creating a visual novel**
 
-- 💬 Ask me about **java + python**
+- 💬 Ask me about **java + python + c#/arduino language**
 
 - 📫 How to reach me **philipozog@gmail.com**
 

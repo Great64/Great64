@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working with **java and python**
 
-- 🔭 I’m currently working on **creating a visual novel**
+- 🔭 I’m currently working on **website projects**
 
 - 💬 Ask me about **java + python + c#/arduino language**
 

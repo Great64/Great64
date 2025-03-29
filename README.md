@@ -1,6 +1,14 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZqMmoxbmV2N3FsMWN2eDNqcGF5MnNjazJxZTZkb3dsN2lzejl5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IfPE0x5gfa5ctKpph6/giphy.gif" width="350" align="centre"/>
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZqMmoxbmV2N3FsMWN2eDNqcGF5MnNjazJxZTZkb3dsN2lzejl5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IfPE0x5gfa5ctKpph6/giphy.gif" width="350" align="right"/>
+
+<br>
+<br>
+<br>
 
 * 💳 My name is Philip 
 * 🏫 I'm currently in my second year at Wilfrid Laurier University

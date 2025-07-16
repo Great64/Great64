@@ -6,7 +6,9 @@
 <br>
 <br>
 
-* 💳 My name is Philip 
+* 💳 My name is Philip
+* ✏️ Java / C / Python / SQL / VBA / ARM assembly
+* 📦 [Arch Linux](https://archlinux.org/) / [hyprland](https://hypr.land/) / [nano](https://www.nano-editor.org/) / [dolphin](https://github.com/KDE/dolphin) / [kitty](https://sw.kovidgoyal.net/kitty/) 
 * 🏫 I'm currently in my second year at Wilfrid Laurier University
 * 📚 I am a Computer Science and Business Administration Double Major
 * "Jack of all trades, master at none" 

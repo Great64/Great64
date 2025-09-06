@@ -7,7 +7,7 @@
 <br>
 
 * 💳 My name is Philip
-* 🏫 I'm currently in my second year at Wilfrid Laurier University
+* 🏫 I'm currently in my third year at Wilfrid Laurier University
 * 📚 I am a Computer Science and Business Administration Double Major
 * 📦 [Arch Linux](https://archlinux.org/) / [hyprland](https://hypr.land/) / [nano](https://www.nano-editor.org/) / [dolphin](https://github.com/KDE/dolphin) / [kitty](https://sw.kovidgoyal.net/kitty/) 
 * "Jack of all trades, master at none" 

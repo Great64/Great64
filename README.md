@@ -9,7 +9,7 @@
 * 💳 My name is Philip
 * 🏫 I'm currently in my third year at Wilfrid Laurier University
 * 📚 I am a Computer Science and Business Administration Double Major
-* 📦 [Arch Linux](https://archlinux.org/) / [niri](https://niri-wm.github.io/niri/) / [neovim](https://neovim.io/doc/) / [dolphin](https://github.com/KDE/dolphin) / [kitty](https://sw.kovidgoyal.net/kitty/) 
+* 📦 [NixOS](https://nixos.wiki) / [niri](https://niri-wm.github.io/niri/) / [neovim](https://neovim.io/doc/) / [dolphin](https://github.com/KDE/dolphin) / [kitty](https://sw.kovidgoyal.net/kitty/) 
 * "Jack of all trades, master at none" 
 
 <br>

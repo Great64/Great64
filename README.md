@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlrY2x2azF5and6a2ltaDE1YWh1eWY4ODBtdmN6NW1vbmZxMno1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8ac9tQi8GtuJaW8HBJ/giphy.gif" width="350" align="right"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlrY2x2azF5and6a2ltaDE1YWh1eWY4ODBtdmN6NW1vbmZxMno1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8ac9tQi8GtuJaW8HBJ/giphy.gif" width="350" height="280" align="right"/>
 
 <br>
 <br>

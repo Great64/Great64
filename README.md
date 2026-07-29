@@ -5,8 +5,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
 
 * 💳 My name is Philip
 * 🏫 I'm currently in my third year at Wilfrid Laurier University
